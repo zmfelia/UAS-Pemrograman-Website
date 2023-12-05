@@ -1,0 +1,37 @@
+.myBG {
+    height: 70vh;
+    background: url("../assets/images/bg/car.jpg");
+    background-size: cover;
+  }
+
+  .intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
+  .title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+  }
+
+  .trending {
+    height: auto;
+    background: url("../assets/images/bg/main.jpg");
+    background-size: cover;
+  }
+
+  .movieImage {
+    height: auto;
+    background-color: rgb(161, 31, 31);
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .images {
+    height: 500px;
+  }
